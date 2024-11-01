@@ -232,10 +232,10 @@
   "created_at": "2024-11-01T16:59:48.003Z",
   "created_by": "absempere",
   "title": "Bishop (Test)",
-  "updated_at": "2024-11-01T17:18:06.091Z",
+  "updated_at": "2024-11-01T17:34:44.539Z",
   "updated_by": "absempere",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
