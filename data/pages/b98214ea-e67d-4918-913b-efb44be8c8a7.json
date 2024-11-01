@@ -115,116 +115,6 @@
         {
           "text": ""
         }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "table-of-contents",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://i.guim.co.uk/img/static/sys-images/BOOKS/Pix/pictures/2011/2/8/1297187377082/Elizabeth-Bishop-007.jpg?width=620&dpr=2&s=none&crop=none",
-              "size": "medium",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Caption"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "align": "right"
-    },
-    {
-      "type": "table-of-contents",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Text alignment"
-        }
       ],
       "align": "right"
     }
@@ -232,7 +122,7 @@
   "created_at": "2024-11-01T16:59:48.003Z",
   "created_by": "absempere",
   "title": "Bishop (Test)",
-  "updated_at": "2024-11-01T17:37:01.865Z",
+  "updated_at": "2024-11-01T18:46:32.968Z",
   "updated_by": "absempere",
   "autogenerate": {
     "enabled": false,
