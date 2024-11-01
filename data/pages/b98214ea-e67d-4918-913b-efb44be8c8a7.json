@@ -121,11 +121,12 @@
   ],
   "created_at": "2024-11-01T16:59:48.003Z",
   "created_by": "absempere",
-  "title": "Bishop (Test)",
-  "updated_at": "2024-11-01T18:46:32.968Z",
+  "title": "Home",
+  "updated_at": "2024-11-01T18:47:26.289Z",
   "updated_by": "absempere",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "home"
 }
