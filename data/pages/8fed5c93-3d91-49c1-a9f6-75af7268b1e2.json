@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-11-01T17:00:13.481Z",
-  "created_by": "absempere",
-  "title": "Frank Bidart reading \"The Moose\" by Elizabeth Bishop",
-  "slug": "frank-bidart-reading-the-moose-by-elizabeth",
-  "updated_at": "2024-11-01T17:00:13.481Z",
-  "updated_by": "absempere",
-  "parent": "b98214ea-e67d-4918-913b-efb44be8c8a7",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "7cc5f6fc-d98c-4023-a05b-c2ba6cd88f91"
-  }
-}
+{"content":[],"created_at":"2024-11-01T17:00:13.481Z","created_by":"absempere","title":"Frank Bidart reading \"The Moose\" by Elizabeth Bishop","slug":"frank-bidart-reading-the-moose-by-elizabeth","updated_at":"2024-11-01T17:00:13.481Z","updated_by":"absempere","parent":"b98214ea-e67d-4918-913b-efb44be8c8a7","autogenerate":{"enabled":true,"type":"event","type_id":"7cc5f6fc-d98c-4023-a05b-c2ba6cd88f91"}}
