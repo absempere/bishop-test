@@ -3,10 +3,10 @@
   "created_at": "2024-11-01T16:59:48.003Z",
   "created_by": "absempere",
   "title": "Bishop (Test)",
-  "updated_at": "absempere",
-  "updated_by": "2024-11-01T16:59:48.003Z",
+  "updated_at": "2024-11-01T17:15:08.172Z",
+  "updated_by": "absempere",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
